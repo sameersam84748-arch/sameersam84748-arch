@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sameer Khan 👋
 
-<!--
-**sameersam84748-arch/sameersam84748-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer & Full Stack Developer
 
-Here are some ideas to get you started:
+## About Me
+💻 Learning Web Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Building D Smart AI Assistant
+
+🌱 Currently Learning:
+- HTML
+- CSS
+- JavaScript
+- React
+- Firebase
+- Git & GitHub
+
+## Goals
+🎯 Become a Full Stack Developer
+
+🎯 Build Real-World AI Projects
+
+🎯 Contribute to Open Source
+
+## Connect With Me
+🔗 LinkedIn: Add your LinkedIn profile link here
+
+## Tech Stack
+HTML | CSS | JavaScript | React | Firebase | Git | GitHub
