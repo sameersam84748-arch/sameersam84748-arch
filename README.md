@@ -23,7 +23,7 @@
 🎯 Contribute to Open Source
 
 ## Connect With Me
-🔗 LinkedIn: Add your LinkedIn profile link here
+🔗 LinkedIn: comming soon
 
 ## Tech Stack
 HTML | CSS | JavaScript | React | Firebase | Git | GitHub
